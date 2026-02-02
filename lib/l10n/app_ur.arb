@@ -1,0 +1,180 @@
+{
+  "@@locale": "ur",
+
+  "appTitle": "اسٹاف پک اپ",
+  "@appTitle": {
+    "description": "مین ایپ کا عنوان"
+  },
+
+  "needPickup": "پک اپ درکار ہے",
+  "@needPickup": {
+    "description": "صارف کو پک اپ کی ضرورت ہے"
+  },
+
+  "free": "مفت",
+  "@free": {
+    "description": "مفت سواری"
+  },
+
+  "paid": "ادائیگی شدہ",
+  "@paid": {
+    "description": "ادائیگی شدہ سواری"
+  },
+
+  "fare": "کرایہ",
+  "@fare": {
+    "description": "سواری کا کرایہ"
+  },
+
+  "confirm": "تصدیق کریں",
+  "@confirm": {
+    "description": "تصدیق بٹن"
+  },
+
+  "cancel": "منسوخ کریں",
+  "@cancel": {
+    "description": "منسوخ بٹن"
+  },
+
+  "login": "داخل ہوں",
+  "@login": {
+    "description": "لاگ ان بٹن اور عنوان"
+  },
+
+  "phoneNumber": "فون نمبر",
+  "@phoneNumber": {
+    "description": "فون نمبر ان پٹ"
+  },
+
+  "password": "پاس ورڈ",
+  "@password": {
+    "description": "پاس ورڈ ان پٹ"
+  },
+
+  "pickupDetails": "پک اپ کی تفصیلات",
+  "@pickupDetails": {
+    "description": "پک اپ تفصیلات اسکرین"
+  },
+
+  "address": "پتہ",
+  "@address": {
+    "description": "پک اپ کا پتہ"
+  },
+
+  "status": "حالت",
+  "@status": {
+    "description": "موجودہ پک اپ کی حالت"
+  },
+
+  "unknown": "نامعلوم",
+  "@unknown": {
+    "description": "نامعلوم قدر"
+  },
+
+  "pending": "زیر التواء",
+  "@pending": {
+    "description": "پک اپ زیر التواء ہے"
+  },
+
+  "accepted": "قبول شدہ",
+  "@accepted": {
+    "description": "رائڈر نے قبول کیا"
+  },
+
+  "completed": "مکمل",
+  "@completed": {
+    "description": "پک اپ مکمل ہو گیا"
+  },
+
+  "completePickup": "پک اپ مکمل کریں",
+  "@completePickup": {
+    "description": "پک اپ مکمل بٹن"
+  },
+
+  "noPickup": "کوئی پک اپ دستیاب نہیں",
+  "@noPickup": {
+    "description": "کوئی فعال پک اپ نہیں"
+  },
+
+  "accept": "قبول کریں",
+  "@accept": {
+    "description": "پک اپ قبول بٹن"
+  },
+
+  "error": "خرابی",
+  "@error": {
+    "description": "خرابی کا پیغام"
+  },
+
+  "forgotPassword": "پاس ورڈ بھول گئے؟",
+  "@forgotPassword": {
+    "description": "فارگوٹ پاس ورڈ لنک اور اسکرین عنوان"
+  },
+
+  "sendOtp": "OTP بھیجیں",
+  "@sendOtp": {
+    "description": "OTP بھیجنے کا بٹن"
+  },
+
+  "resetPassword": "پاس ورڈ ری سیٹ کریں",
+  "@resetPassword": {
+    "description": "پاس ورڈ ری سیٹ بٹن"
+  },
+
+  "otpSent": "OTP بھیجا گیا: {otp}",
+  "@otpSent": {
+    "description": "OTP بھیجنے کی اطلاع",
+    "placeholders": {
+      "otp": {}
+    }
+  },
+
+  "passwordReset": "پاس ورڈ ری سیٹ ہو گیا",
+  "@passwordReset": {
+    "description": "پاس ورڈ ری سیٹ کامیابی کا پیغام"
+  },
+
+
+    "registerPickup": "کسٹمر کے طور پر رجسٹر کریں",
+  "@registerPickup": {
+    "description": "کسٹمر رجسٹریشن اسکرین کا عنوان"
+  },
+
+  "registerDriver": "رائیڈر کے طور پر رجسٹر کریں",
+  "@registerDriver": {
+    "description": "رائیڈر/ڈرائیور رجسٹریشن اسکرین کا عنوان"
+  },
+
+  "fullName": "مکمل نام",
+  "@fullName": {
+    "description": "صارف کا مکمل نام"
+  },
+
+  "cnic": "شناختی کارڈ نمبر",
+  "@cnic": {
+    "description": "پاکستانی قومی شناختی کارڈ نمبر"
+  },
+
+  "vehicleNo": "گاڑی نمبر",
+  "@vehicleNo": {
+    "description": "بائیک یا گاڑی کا رجسٹریشن نمبر"
+  },
+
+  "licenseNo": "لائسنس نمبر",
+  "@licenseNo": {
+    "description": "ڈرائیونگ لائسنس نمبر"
+  },
+
+  "register": "رجسٹر کریں",
+  "@register": {
+    "description": "رجسٹریشن بٹن"
+  },
+  "registrationSuccess": "رجسٹریشن کامیاب ہوگئی!",
+  "@registrationSuccess": {
+    "description": "Shown when user registration is completed"
+  },
+  "processing": "جاری ہے...",
+  "@processing": {
+    "description": "Loading text on buttons"
+  }
+}

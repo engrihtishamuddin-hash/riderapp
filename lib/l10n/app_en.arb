@@ -1,0 +1,158 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "Staff Pickup",
+  "@appTitle": {
+    "description": "Main app title"
+  },
+
+  "needPickup": "Need Pickup",
+  "@needPickup": {
+    "description": "User needs a pickup"
+  },
+
+  "free": "Free",
+  "@free": {
+    "description": "Free ride"
+  },
+
+  "paid": "Paid",
+  "@paid": {
+    "description": "Paid ride"
+  },
+
+  "fare": "Fare",
+  "@fare": {
+    "description": "Ride fare"
+  },
+
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm button"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+
+  "login": "Login",
+  "@login": {
+    "description": "Login button and title"
+  },
+
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone number input"
+  },
+
+  "password": "Password",
+  "@password": {
+    "description": "Password input"
+  },
+
+  "pickupDetails": "Pickup Details",
+  "@pickupDetails": {
+    "description": "Pickup details screen"
+  },
+
+  "address": "Address",
+  "@address": {
+    "description": "Pickup address"
+  },
+
+  "status": "Status",
+  "@status": {
+    "description": "Current pickup status"
+  },
+
+  "unknown": "Unknown",
+  "@unknown": {
+    "description": "Unknown value"
+  },
+
+  "pending": "Pending",
+  "@pending": {
+    "description": "Pickup is pending"
+  },
+
+  "accepted": "Accepted",
+  "@accepted": {
+    "description": "Rider accepted"
+  },
+
+  "completed": "Completed",
+  "@completed": {
+    "description": "Pickup completed"
+  },
+
+  "completePickup": "Complete Pickup",
+  "@completePickup": {
+    "description": "Complete pickup button"
+  },
+
+  "noPickup": "No Pickup Available",
+  "@noPickup": {
+    "description": "No active pickup"
+  },
+
+  "accept": "Accept",
+  "@accept": {
+    "description": "Accept pickup button"
+  },
+
+  "error": "Error",
+  "@error": {
+    "description": "Error message"
+  },
+   "forgotPassword": "Input Password",
+  "@forgotPassword": {
+  "description": "Forgot password link"
+  },
+
+  "registerPickup": "Register as Customer",
+  "@registerPickup": {
+    "description": "Title for customer registration screen"
+  },
+
+  "registerDriver": "Register as Rider",
+  "@registerDriver": {
+    "description": "Title for rider/driver registration screen"
+  },
+
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "User's full name"
+  },
+
+  "cnic": "CNIC Number",
+  "@cnic": {
+    "description": "Pakistani national identity card number"
+  },
+
+  "vehicleNo": "Vehicle Number",
+  "@vehicleNo": {
+    "description": "Bike or car registration number"
+  },
+
+  "licenseNo": "License Number",
+  "@licenseNo": {
+    "description": "Driving license number"
+  },
+
+  "register": "Register",
+  "@register": {
+    "description": "Register button"
+  },
+  
+  "registrationSuccess": "Registration successful!",
+  "@registrationSuccess": {
+    "description": "Shown when user registration is completed"
+  },
+  "processing": "Processing...",
+  "@processing": {
+    "description": "Loading text on buttons"
+  }
+
+
+}
