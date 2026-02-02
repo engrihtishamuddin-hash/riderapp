@@ -1,0 +1,11 @@
+.PHONY: run test buildapk buildaab clean
+run:
+	flutter run --flavor dev -t lib/main.dart
+test:
+	flutter test
+buildapk:
+	flutter build apk --release --flavor prod -t lib/main.dart
+buildaab:
+	flutter build appbundle --release --flavor prod -t lib/main.dart
+clean:
+	flutter clean && flutter pub get
